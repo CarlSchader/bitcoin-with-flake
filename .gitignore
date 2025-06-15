@@ -26,3 +26,5 @@ target/
 /guix-build-*
 
 /ci/scratch/
+
+**/.claude/settings.local.json
